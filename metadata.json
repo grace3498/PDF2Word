@@ -1,0 +1,5 @@
+{
+  "name": "File to Word Converter",
+  "description": "Upload a PDF or image file and convert its content into a Word (.docx) document.",
+  "requestFramePermissions": []
+}
